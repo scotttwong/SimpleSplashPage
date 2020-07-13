@@ -1,0 +1,33 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: "Montserrat", sans-serif;
+}
+
+.banner {
+  background: url("./header.jpg") no-repeat center center fixed;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+
+.header-text {
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+  padding-bottom: 250px;
+}
+
+section {
+  text-align: center;
+}
+
+button.find-out-more {
+  background-color: orangered;
+  color: white;
+  border-radius: 300px;
+  text-transform: uppercase;
+  border-color: orangered;
+  font-weight: bold;
+}
